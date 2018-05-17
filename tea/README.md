@@ -1,6 +1,6 @@
 # 奶茶店下单收银
 
-# 线上效果预览：http://htmlpreview.github.io/?https://github.com/JerryTing170918/Vue/blob/master/tea/dist/index.html#/
+# 线上效果预览：dingyu666.me
 
 > A Vue.js project
 
