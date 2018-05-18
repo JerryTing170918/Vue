@@ -1,6 +1,6 @@
 # 奶茶店下单收银
 
-# 线上效果预览：dingyu666.me
+# 线上效果预览：http://dingyu666.me
 
 > A Vue.js project
 
